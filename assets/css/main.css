@@ -1593,7 +1593,8 @@ input, select, textarea {
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #ffffff url(images/bg1.png);
+		/*c8d2bc*/
 		padding: 2em 0;
 	}
 
