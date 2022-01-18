@@ -100,11 +100,11 @@ input, select, textarea {
 	}
 
 	h1 {
-		text-transform: capitalize;
+		/*text-transform: capitalize;*/
 	}
 
 	h2 {
-		text-transform: capitalize;
+		/*text-transform: capitalize;*/
 		font-size: 1.6em;
 		letter-spacing: -1px;
 		margin-bottom: 1em;
@@ -1624,7 +1624,7 @@ input, select, textarea {
 			font-size: 1.6em;
 			color: #fff;
 			letter-spacing: -1px;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			opacity: 0.8;
 		}
 
