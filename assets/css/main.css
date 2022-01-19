@@ -21,7 +21,8 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: sans-serif;
+	/*inherit*/
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -88,9 +89,10 @@ input, select, textarea {
 	body {
 		font-size: 13.5pt;
 		font-family: sans-serif;
-		background-color: #e3e9dc;
+		background-color: #ffffff;
+		/*e3e9dc*/
 		font-family: 'Ubuntu Condensed', sans-serif;
-		color: #878e83;
+		color: #000000;
 		letter-spacing: -1px;
 	}
 
@@ -129,6 +131,7 @@ input, select, textarea {
 	}
 
 	p {
+		font-size: 1.2em;
 		line-height: 1.8em;
 	}
 
