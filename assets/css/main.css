@@ -1462,7 +1462,7 @@ input, select, textarea {
 	}
 
 		ul.small-image-list li img {
-			width: 78px;
+			width: 150px;
 		}
 
 	ul.big-image-list li {
@@ -1471,7 +1471,7 @@ input, select, textarea {
 	}
 
 		ul.big-image-list li img {
-			width: 178px;
+			width: 225px;
 		}
 
 	ul.link-list li {
